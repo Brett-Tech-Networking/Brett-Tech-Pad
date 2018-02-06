@@ -7,3 +7,12 @@ c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Bret
 c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.exe
 c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.exe.config
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.exe
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.pdb
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.exe
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.pdb
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett_Tech_Pad.BrettTechPad.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett_Tech_Pad.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Brett-Tech-Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.csproj.GenerateResource.Cache
