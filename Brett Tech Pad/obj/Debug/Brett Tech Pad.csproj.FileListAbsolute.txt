@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\bin\Debug\Brett Tech Pad.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett_Tech_Pad.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett_Tech_Pad.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Brett Tech Pad\Brett Tech Pad\obj\Debug\Brett Tech Pad.csprojResolveAssemblyReference.cache
